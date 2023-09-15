@@ -68,6 +68,6 @@ Inline code is for single numbers/short text:
 We have 32 cars.
 
 ```{python}
-print(2+2)
+print(2+2+2)
 print("Hello World! Python here, do you miss R already?")
 ```
